@@ -1,6 +1,6 @@
-# Hi, I'm fansuregrin1 👋
+# Hi, I'm Fansure Grin 👋
 
-My old GitHub account got suspended. So I made a new one. Same me, new start.
+My [old GitHub account](https://github.com/fansuregrin) got suspended. So I made a new one. Same me, new start.
 
 **What I do:**
 - Write code, break things, fix them, repeat
