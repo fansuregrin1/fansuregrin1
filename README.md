@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm fansuregrin1 👋
 
-<!--
-**fansuregrin1/fansuregrin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My old GitHub account got suspended. So I made a new one. Same me, new start.
 
-Here are some ideas to get you started:
+**What I do:**
+- Write code, break things, fix them, repeat
+- Learn from mistakes (and from things I still don't understand)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:**
+- Starting over and rebuilding, one commit at a time
+
+**Fun fact:**
+GitHub never told me why my old account was suspended. So I'm basically a mystery to myself.
+
+📫 Reach me via Issues — I'll see them eventually.
